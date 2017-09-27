@@ -1,3 +1,9 @@
+#poem_body {
+  background-image: url("http://cdn.obsidianportal.com/assets/234074/indaris_parchment.jpg");
+}
+#poems_container {
+  margin-top: 25px;
+}
 .nav a {
   color: #5a5a5a;
   font-size: 11px;
