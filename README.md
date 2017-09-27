@@ -1,2 +1,2 @@
 # DevSpace
-For free development
+A space for me to sharpen my web development skills!
